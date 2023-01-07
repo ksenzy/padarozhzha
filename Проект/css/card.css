@@ -1,0 +1,140 @@
+.info {
+}
+
+.info-container {
+}
+
+.info__body {
+    display: flex;
+    margin: 0px -15px;
+}
+
+.info__column1 {
+    padding: 0 15px;
+    flex: 0 1 33.33%;
+    margin: -111px 0px 0px 0px;
+}
+
+.info__column2 {
+    padding: 0 15px;
+    flex: 0 2 66.66%;
+}
+
+.info__item_gr {
+    height: 100%;
+    background-color: rgb(134, 171, 111);
+    padding: 35px;
+}
+
+.info__item_ye {
+    height: 100%;
+    background-color: rgb(231, 130, 67);
+    padding: 35px;
+}
+
+.info__item_br {
+    height: 100%;
+    background-color: rgb(122, 91, 71);
+    padding: 35px;
+}
+
+.info__item_bl {
+    height: 100%;
+    background-color: rgb(134, 151, 223);
+    padding: 35px;
+}
+
+.item-info {
+}
+
+.item-info > *:not(:last-child) {
+    margin: 0px 0px 10px 0px;
+}
+
+.item-info__iron {
+}
+
+.item-info__iron img {
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.item-info__title {
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    font-size: 24px;
+    line-height: 133%;
+    color: #312e2e;
+    padding: 15px 0px 5px 0px;
+}
+
+.item-info__text {
+    font-size: 18px;
+    color: #312e2e;
+    line-height: 142%;
+}
+
+.info__body2 {
+    display: flex;
+    margin: 0px -15px;
+}
+
+.info__column4 {
+    padding: 30px 15px;
+    flex: 0 1 33.33%;
+}
+
+.info__column3 {
+    padding: 30px 15px;
+    flex: 0 2 66.66%;
+}
+
+.info-img img {
+    max-width: 100%;
+    padding-top: 20px;
+    height: 100%;
+}
+@media (max-width: 770px) {
+    .main-block__text2 {
+        font-size: 24px;
+    }
+    .main-block__text1 {
+        font-size: 18px;
+    }
+}
+@media (max-width: 1000px) {
+    .info__body2 {
+        display: block;
+    }
+    .info-img img {
+        padding: 0px 140px 40px 140px;
+    }
+    .info-img img {
+        display: none;
+    }
+}
+@media (max-width: 660px) {
+    .item-info {
+        padding-top: 15px;
+    }
+    .item-info__iron img {
+        display: none;
+    }
+    .info__body {
+        display: block;
+    }
+    .info__column1, .info__column2 {
+        flex: 0 1 100%
+    }
+    .info__body2 {
+        display: block;
+    }
+    .info-img img {
+        display: none;
+    }
+}
+@media (max-width: 530px) {
+    .item-info__iron img {
+        display: block;
+    }
+}
