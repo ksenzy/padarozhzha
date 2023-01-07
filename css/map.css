@@ -1,0 +1,480 @@
+.container-map img {
+    max-width: 9%;
+}
+
+.container-map {
+   line-height: 3;
+    font-size: 1px;
+    box-sizing: content-box;
+}
+
+.marker-melcar {
+    position: absolute;
+    top: 594px;
+    left: 155px;
+}
+
+.marker-avgkan {
+    position: absolute;
+    top: 510px;
+    left: 76px;
+}
+
+.marker-zakoz {
+    position: absolute;
+    top: 475px;
+    left: 117px;
+}
+
+.marker-uszhel {
+    position: absolute;
+    top: 530px;
+    left: 223px;
+}
+
+.marker-dvszhu {
+    position: absolute;
+    top: 506px;
+    left: 184px;
+}
+
+.marker-dvscho {
+    position: absolute;
+    top: 508px;
+    left: 362px;
+}
+
+.marker-cerber {
+    position: absolute;
+    top: 542px;
+    left: 375px;
+}
+
+.marker-cersn {
+    position: absolute;
+    top: 617px;
+    left: 228px;
+}
+
+.marker-cerkol {
+    position: absolute;
+    top: 500px;
+    left: 87px;
+}
+
+.marker-musrel {
+    position: absolute;
+    top: 485px;
+    left: 68px;
+}
+
+.marker-musmic {
+    position: absolute;
+    top: 526px;
+    left: 324px;
+}
+
+.marker-muskach {
+    position: absolute;
+    top: 526px;
+    left: 335px;
+}
+
+.marker-zalpr {
+    position: absolute;
+    top: 778px;
+    left: 461px;
+}
+
+.marker-zaksp {
+    position: absolute;
+    top: 743px;
+    left: 235px;
+}
+
+.marker-zakel {
+    position: absolute;
+    top: 711px;
+    left: 405px;
+}
+
+.marker-ustrem {
+    position: absolute;
+    top: 723px;
+    left: 147px;
+}
+
+.marker-zamruzh {
+    position: absolute;
+    top: 681px;
+    left: 196px;
+}
+
+.marker-usnem {
+    position: absolute;
+    top: 810px;
+    left: 59px;
+}
+
+.marker-kosls {
+    position: absolute;
+    top: 664px;
+    left: 187px;
+}
+
+.marker-monkar {
+    position: absolute;
+    top: 751px;
+    left: 214px;
+}
+
+.marker-cersch {
+    position: absolute;
+    top: 793px;
+    left: 139px;
+}
+
+.marker-muszhd {
+    position: absolute;
+    top: 835px;
+    left: 58px;
+}
+
+.marker-mussch {
+    position: absolute;
+    top: 824px;
+    left: 59px;
+}
+
+.marker-muspol {
+    position: absolute;
+    top: 829px;
+    left: 357px;
+}
+
+.marker-parnar {
+    position: absolute;
+    top: 260px;
+    left: 420px;
+}
+
+.marker-nalpu {
+    position: absolute;
+    top: 425px;
+    left: 415px;
+}
+
+.marker-lenkon {
+    position: absolute;
+    top: 443px;
+    left: 473px;
+}
+
+.marker-ustsh {
+    position: absolute;
+    top: 450px;
+    left: 440px;
+}
+
+.marker-usbd {
+    position: absolute;
+    top: 474px;
+    left: 545px;
+}
+
+.marker-ushr {
+    position: absolute;
+    top: 408px;
+    left: 378px;
+}
+
+.marker-kosrov {
+    position: absolute;
+    top: 460px;
+    left: 670px;
+}
+
+.marker-koszem {
+    position: absolute;
+    top: 365px;
+    left: 630px;
+}
+
+.marker-kosbt {
+    position: absolute;
+    top: 500px;
+    left: 700px;
+}
+
+.marker-muszabr {
+    position: absolute;
+    top: 325px;
+    left: 450px;
+}
+
+.marker-musbor {
+    position: absolute;
+    top: 394px;
+    left: 658px;
+}
+
+.marker-mushaisu {
+    position: absolute;
+    top: 493px;
+    left: 600px;
+}
+
+.marker-zakbab {
+    position: absolute;
+    top: 730px;
+    left: 730px;
+}
+
+.marker-zakchir {
+    position: absolute;
+    top: 755px;
+    left: 800px;
+}
+
+.marker-zakds {
+    position: absolute;
+    top: 840px;
+    left: 955px;
+}
+
+.container-map .img-marker-zakds {
+    max-width: 10%;
+}
+
+.marker-usger {
+    position: absolute;
+    top: 730px;
+    left: 1045px;
+}
+
+.container-map .img-marker-usger {
+    max-width: 14%;
+}
+
+.marker-ushal {
+    position: absolute;
+    top: 721px;
+    left: 989px;
+}
+
+.container-map .img-marker-ushal {
+    max-width: 11%;
+}
+
+.marker-usnar {
+    position: absolute;
+    top: 900px;
+    left: 800px;
+}
+
+.marker-monur {
+    position: absolute;
+    top: 850px;
+    left: 800px;
+}
+
+.marker-hrsv {
+    position: absolute;
+    top: 717px;
+    left: 811px;
+}
+
+.marker-ceril {
+    position: absolute;
+    top: 763px;
+    left: 973px;
+}
+
+.container-map .img-marker-ceril {
+    max-width: 11%;
+}
+
+.marker-muspr {
+    position: absolute;
+    top: 825px;
+    left: 627px;
+}
+
+.marker-galgv {
+    position: absolute;
+    top: 750px;
+    left: 983px;
+}
+
+.container-map .img-marker-galgv {
+    max-width: 11%;
+}
+
+.container-map .img-marker-ceril {
+    max-width: 11%;
+}
+
+.marker-musvetk {
+    position: absolute;
+    top: 729px;
+    left: 1003px;
+}
+
+.container-map .img-marker-musvetk {
+    max-width: 12%;
+}
+
+.marker-ozhot {
+    position: absolute;
+    top: 405px;
+    left: 782px;
+}
+
+.marker-gorden {
+    position: absolute;
+    top: 359px;
+    left: 947px;
+}
+
+.container-map .img-marker-gorden {
+    max-width: 10%;
+}
+
+.marker-chigvod {
+    position: absolute;
+    top: 544px;
+    left: 825px;
+}
+
+.marker-ustol {
+    position: absolute;
+    top: 505px;
+    left: 904px;
+}
+
+.marker-usbul {
+    position: absolute;
+    top: 600px;
+    left: 810px;
+}
+
+.marker-bobkrep {
+    position: absolute;
+    top: 604px;
+    left: 740px;
+}
+
+.marker-bhsin {
+    position: absolute;
+    top: 541px;
+    left: 873px;
+}
+
+.marker-sobpus {
+    position: absolute;
+    top: 422px;
+    left: 1046px;
+}
+
+.container-map .img-marker-sobpus {
+    max-width: 16%;
+}
+
+.marker-koskn {
+    position: absolute;
+    top: 432px;
+    left: 856px;
+}
+
+.marker-etnder {
+    position: absolute;
+    top: 476px;
+    left: 868px;
+}
+
+.marker-mushudpopl {
+    position: absolute;
+    top: 616px;
+    left: 750px;
+}
+
+.marker-musgor {
+    position: absolute;
+    top: 369px;
+    left: 959px;
+}
+
+.container-map .img-marker-musgor {
+    max-width: 10%;
+}
+
+.marker-berzap {
+    position: absolute;
+    top: 296px;
+    left: 634px;
+}
+.marker-brasloz {
+    position: absolute;
+    top: 95px;
+    left: 482px;
+}
+
+.marker-elzak {
+    position: absolute;
+    top: 101px;
+    left: 553px;
+}
+
+.marker-usopsa {
+    position: absolute;
+    top: 131px;
+    left: 459px;
+}
+
+.marker-usleo {
+    position: absolute;
+    top: 71px;
+    left: 573px;
+}
+
+.marker-usmok {
+    position: absolute;
+    top: 300px;
+    left: 886px;
+}
+
+.marker-kosdm {
+    position: absolute;
+    top: 309px;
+    left: 837px;
+}
+
+.marker-kosver {
+    position: absolute;
+    top: 195px;
+    left: 641px;
+}
+
+.marker-usplat {
+    position: absolute;
+    top: 125px;
+    left: 489px;
+}
+
+.marker-musmln {
+    position: absolute;
+    top: 337px;
+    left: 886px;
+}
+
+.marker-muskol {
+    position: absolute;
+    top: 185px;
+    left: 852px;
+}
+
+.marker-muskn {
+    position: absolute;
+    top: 124px;
+    left: 662px;
+}
